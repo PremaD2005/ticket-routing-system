@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-09-04 06:10:13">
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description/>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value="future achievers">0543b5df8323221078d1b7a6feaad30b</manager>
+<name>certificates</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-29 07:23:54</sys_created_on>
+<sys_id>ee4535d38363221078d1b7a6feaad3d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-29 07:23:54</sys_updated_on>
+<type/>
+</sys_user_group>
+</unload>
